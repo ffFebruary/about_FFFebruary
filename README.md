@@ -4,6 +4,14 @@ I'm a beginner who just started using GitHub.
 
 I’m currently learning causal inference.
 
+## 📊 GitHub Stats
+![ffFebruary's GitHub stats](https://github-readme-stats.vercel.app/api?username=あなたのユーザー名&show_icons=true&theme=radical)
+
+## 🛠️ Skills & Tools
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🐧 Favorites
 * Camera
