@@ -30,7 +30,7 @@ I’m currently learning causal inference.
 
 ### 💬 Comment
 
-Looking for job😭
+Looking for job currently😭
 
 
 
