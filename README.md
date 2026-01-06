@@ -5,7 +5,7 @@ I'm a beginner who just started using GitHub.
 I’m currently learning causal inference.
 
 ## 🌍 My Website
-[Click here to look at mt page!](https://fffebruary.github.io/Yasu-oda/)
+[Click here to look at my page!](https://fffebruary.github.io/Yasu-oda/)
 
 ## 📊 GitHub Stats
 ![ffFebruary's GitHub stats](https://github-readme-stats.vercel.app/api?username=ffFebruary&show_icons=true&theme=radical)
